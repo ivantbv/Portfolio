@@ -3754,6 +3754,10 @@
 
 /* Header */
 
+.h-font-size {
+		font-size: 78px !important;
+}
+
 	body.subpage {
 		padding-top: 3.25em;
 	}
